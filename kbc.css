@@ -1,0 +1,47 @@
+body {
+    background-color: #3a3e8c;
+}
+
+.image {
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/1/1f/Kaun_Banega_Crorepati.jpg);
+    background-repeat: no-repeat;
+    margin: 50px;
+    padding: 155px;
+    align-items: center;
+    margin-left: 500px;
+    background-color: none;
+    width: 50%;
+}
+
+.ques {
+    border: 2px solid black;
+    background-color: blueviolet;
+    padding: 30px;
+    border-radius: 28px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: cornsilk;
+}
+
+.ques_option {
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.look {
+    background-color: blueviolet;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 35%;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
